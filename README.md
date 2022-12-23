@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```yaml
+Greetings! 
+
+I'm a newbie enjoying the journey and trying to learn a couple things along the way
+
+```
+
