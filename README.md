@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ```yaml
-Greetings! 
-
-I'm a newbie enjoying the journey and trying to learn a couple things along the way.
-
+Now let the song begin! Let us sing together
+Of sun, stars, moon and mist, rain and cloudy weather,
+Light on the budding leaf, dew on the feather,
+Wind on the open hill, bells on the heather,
+Reeds by the shady pool, lilies on the water...
 ```
 
