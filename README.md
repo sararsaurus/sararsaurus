@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ```yaml
-Now let the song begin! Let us sing together
+Let us sing together
 Of sun, stars, moon and mist, rain and cloudy weather,
 Light on the budding leaf, dew on the feather,
 Wind on the open hill, bells on the heather,
