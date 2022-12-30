@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ```yaml
-Sorry! I don’t want any adventures, thank you. Not today. Good morning!
+“What do you mean?” he said. “Do you wish me a good morning, or mean that it is a good morning whether I want it or not; or that you feel good this morning; or that it is a morning to be good on?”
 ```
 
