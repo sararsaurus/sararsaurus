@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ```yaml
-Tea-time had long gone by, and it seemed supper-time would soon do the same.
+“For a moment, nothing happened. Then, after a second or so, nothing continued to happen.”
+- Douglas Adams, The Hitchhiker's Guide to the Galaxy
 ```
 
