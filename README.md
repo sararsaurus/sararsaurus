@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ```yaml
 “For a moment, nothing happened. Then, after a second or so, nothing continued to happen.”
-- Douglas Adams, The Hitchhiker's Guide to the Galaxy
+- _The Hitchhiker's Guide to the Galaxy_
 ```
 
