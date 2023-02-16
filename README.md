@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ```yaml
-“For a moment, nothing happened. Then, after a second or so, nothing continued to happen.”
+“Don't panic.”
 - The Hitchhiker's Guide to the Galaxy
 ```
-![](https://tryhackme-badges.s3.amazonaws.com/sararsaurus.png)
+
